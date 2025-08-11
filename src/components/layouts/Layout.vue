@@ -10,7 +10,7 @@
   </main>
   <footer>
     <small>Created by </small>
-    <a href="https://github.com/borgesDev" target="_blank">
+    <a href="https://github.com/BorgersDev" target="_blank">
         <img alt="pfp" src="https://avatars.githubusercontent.com/u/154439946?s=400&u=21731f2c3015d73e983b2438027f087b630e5610&v=4"/>
         <p>BorgesDev</p>
         <i class="fa-brands fa-github"></i>
